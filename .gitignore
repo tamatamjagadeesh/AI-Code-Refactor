@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Target repo (test repo cloned by agent)
+target_repo/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
